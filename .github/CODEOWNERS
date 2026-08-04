@@ -1,0 +1,6 @@
+# The headless jobs in this repo auto-commit and auto-push based on these files.
+# Require review from the maintainer on anything that changes their behavior.
+/prompts/       @LeonardoChiarelli
+/lib/           @LeonardoChiarelli
+/scripts/       @LeonardoChiarelli
+/install.mjs    @LeonardoChiarelli
