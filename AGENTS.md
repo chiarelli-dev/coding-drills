@@ -1,4 +1,4 @@
-# AGENTS.md — coding-drills
+# AGENTS.md: coding-drills
 
 Fonte única de contexto para qualquer assistente (Codex ou Claude Code) neste repositório.
 
